@@ -88,29 +88,29 @@ testimonial:
   title : "What People Are Saying <br> About Our Product"
   testimonialItem:
     # testimonial item loop
-    - name : "Angela Perara"
+    - name : "Angela Piera"
       image : "images/clients/client-1.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Crema bastante buena. Olor agradable y ligero, económico de usar, la piel es agradable al tacto después de su uso. Lo uso por la mañana y por la noche, la piel mixta se ha vuelto más mate."
+      content : "Buena crema. Huele bien, no pegajoso. Hidrata la piel a la perfección."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
-    - name : "Riya Ventilo"
+    - name : "Riya Venruilo"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "¡Satisfecho con la crema! He estado usando esta serie durante mucho tiempo. La crema es ligera, no deja brillos en el rostro con mi piel mixta. Deja una sensación de ligereza."
+      content : "La nata de la empresa, como siempre, está por encima. Olor agradable, aplicación suave."
       rating : "three" # rating star, one to five
       
     # testimonial item loop
-    - name : "john Doe"
+    - name : "Rober Doe"
       image : "images/clients/client-3.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Literalmente suficientes guisantes. Ligero, bien absorbido."
+      content : "He estado usando esta crema durante varios años. ¡¡Multa!! No hay erupciones. Ideal para pieles secas"
       rating : "five" # rating star, one to five
       
     # testimonial item loop
-    - name : "Riya Ventila"
+    - name : "Riya Permala"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Voy a comprar por segunda vez y compraré más. Muy buena crema, perfecta, el estado de la piel ha mejorado."
+      content : "compré una noche ..., me gustó. y ahora pedí uno diario, me gustó el precio y la calidad, huele bien."
       rating : "four" # rating star, one to five
