@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://elevona.vercel.app/"
 languageCode = "en"
-title = "Teno"
+title = "Elevona"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
